@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week25_Life-cycle/static/css/main.073c9b0a.css",
+    "main.js": "/week25_Life-cycle/static/js/main.e7df057a.js",
+    "index.html": "/week25_Life-cycle/index.html",
+    "main.073c9b0a.css.map": "/week25_Life-cycle/static/css/main.073c9b0a.css.map",
+    "main.e7df057a.js.map": "/week25_Life-cycle/static/js/main.e7df057a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e7df057a.js"
+  ]
+}
